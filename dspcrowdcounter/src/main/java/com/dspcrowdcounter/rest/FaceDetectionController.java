@@ -20,8 +20,7 @@ public class FaceDetectionController {
 		// PeopleDetect peopleDetect = new PeopleDetect();
 		// peopleDetect.detect("C:\\Users\\Administrator\\Downloads\\videoplayback.mp4",
 		// "");
-
-		FaceDetectorVid.detectFace();
+		//FaceDetectorVid.detectFace();
 		return "Feeding the live video to server";
 	}
 

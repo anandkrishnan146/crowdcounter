@@ -2,7 +2,7 @@ package com.dspcrowdcounter.OpenCVUtil;
 
 public class Benchmark {
 
-	public static void main(String[] args) {
+	public static void dummyMain(String[] args) {
 		// TODO Auto-generated method stub
 		String url = null;
 		final String outputFile = "/home/bwhisp/softwares/install-opencv/output/campus4c0.avi";
